@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485627910995",
+    "project_id": "sinavci-64f7c",
+    "storage_bucket": "sinavci-64f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485627910995:android:ade7bad524507f03609fa6",
+        "android_client_info": {
+          "package_name": "com.sinavci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485627910995-bjif46oafkqccp754toq2nsnqs6dpgsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinavci",
+            "certificate_hash": "08d4e27b88b15bc65142e2dd948c0fe2faa3bf0d"
+          }
+        },
+        {
+          "client_id": "485627910995-43nbu2hsiniio1ljgciavmclq29m5hj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxNmQyKZhOFFXAT0av3YuArAfUvsB4MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485627910995-43nbu2hsiniio1ljgciavmclq29m5hj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
